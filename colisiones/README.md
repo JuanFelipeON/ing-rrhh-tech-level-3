@@ -10,7 +10,7 @@ Este programa simula una hilera de n robots que se desplazan dada una secuencia 
 2. **Clonar el repositorio:**
    - Clona este repositorio en tu máquina local:
      ```
-     git clone <URL_DEL_REPOSITORIO>
+     git clone https://github.com/JuanFelipeON/ing-rrhh-tech-level-3.git
      
      ```
 
