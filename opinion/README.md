@@ -1,2 +1,7 @@
-# El ensayo del segundo punto
-Prueba técnica de selección L3 - Ingenian
+# Making Architecture Matter - Martin Fowler
+
+En el video de su charla "Making Architecture Matter" por Martin Fowler plantea un debate sobre el concepto de arquitectura y como este es visto por las empresas a lo largo del tiempo, para algunas empresas, se trata de la organizacion fundamental de un sistema o de la forma en que los componentes de nivel superior estan conectados entre si, pero para Martin su perspectiva sobre este concepto a sido modificada gracias a un intercambio de ideas con su amigo Ralph Johnson, la conclusion de estos fue “la arquitectura se trata de las cosas importantes. Sea lo que sea eso”, Significa que para que un un desarrollador se convierta en arquitecto, debe ser capaz de reconocer qué elementos son importantes y cuáles son propensos a causar problemas graves si no se controlan.
+
+Para mi la arquitectura no es solo una disposición de componentes o una serie de decisiones técnicas. Es la esencia misma de la creación, la sinfonía que se compone antes de que las notas individuales se desplieguen y se combinen. Ralph Johnson, en su sabiduría, nos recuerda que la arquitectura es “sobre las cosas importantes”. Pero, ¿qué son esas cosas? ¿Son las líneas de código, los diagramas UML, los artefactos? No, son más que eso. Son los momentos de inspiración que dan forma a la visión de algo mucho mas grande, algo que perdure algo que funcione y no solamente satisfaga las necesidades del negocio si no algo con lo cual los desarrolladores se puedan sentir identificados y  orgullosos.
+
+En conclusion Martin Fowler nos recuerda la importancia de las cosas, esto implica identificar elementos arquitectonicos clave y mantenerlos en buen estado, donde se debe tener en cuenta la calidad interna de las cosas ya que una arquitectura deficiente contribuye al crecimiento del código innecesario y de futuras malas decisiones.

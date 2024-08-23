@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de Sesión</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form action="action_page.js" method="post">
+        <div class="imgcontainer">
+            <img src="https://cdn.dribbble.com/users/7488349/screenshots/19708671/media/c5395244919ad2a06094425f4c992ce0.jpg" alt="Logo" class="logo">
+        </div>
+        <div class="container">
+            <label for="uname"><b>Usuario</b></label>
+            <input type="text" placeholder="Ingresa tu usuario" name="uname" required>
+            <label for="psw"><b>Contraseña</b></label>
+            <input type="password" placeholder="Ingresa tu contraseña" name="psw" required>
+            <button type="submit">Iniciar Sesión</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember"> Recordarme
+            </label>
+            <span class="psw">¿Olvidaste tu <a href="#">contraseña?</a></span>
+        </div>
+    </form>
+</body>
+</html>
