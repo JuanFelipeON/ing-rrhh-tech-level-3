@@ -17,7 +17,7 @@ Este programa simula una hilera de n robots que se desplazan dada una secuencia 
 3. **Ejecutar el programa:**
    - Abre una terminal y navega hasta la carpeta del proyecto.
      ```
-     cd colisiones
+     cd ing-rrhh-tech-level-3/colisiones
      ```
    - Ejecuta el siguiente comando para instalar las dependencias del proyecto:
      ```
